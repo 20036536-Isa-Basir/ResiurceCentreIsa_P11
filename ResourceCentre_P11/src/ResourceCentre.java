@@ -90,7 +90,11 @@ public class ResourceCentre {
 
 	}
 
+<<<<<<< HEAD
 	public static void itemTypeMenu() {
+=======
+	private static void itemTypeMenu() {
+>>>>>>> branch 'master' of https://github.com/20036536-Isa-Basir/ResiurceCentreIsa_P11.git
 		ResourceCentre.setHeader("ITEM TYPES");
 		System.out.println("1. Camcorder");
 		System.out.println("2. Chromebook");
