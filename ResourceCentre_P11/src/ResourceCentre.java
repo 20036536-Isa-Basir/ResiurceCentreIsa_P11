@@ -90,7 +90,11 @@ public class ResourceCentre {
 
 	}
 
-	private static void itemTypeMenu() {
+
+	
+
+	public static void itemTypeMenu() {
+
 		ResourceCentre.setHeader("ITEM TYPES");
 		System.out.println("1. Camcorder");
 		System.out.println("2. Chromebook");
